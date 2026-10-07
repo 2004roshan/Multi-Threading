@@ -21,6 +21,7 @@
         <module name="threadDemo17" />
         <module name="threadDemo6" />
         <module name="threadDemo18" />
+        <module name="threadDemo19" />
         <module name="threadDemo8" />
         <module name="threadDemo7" />
       </profile>
