@@ -1,11 +1,14 @@
+import java.util.concurrent.atomic.AtomicReference;
+
 public class seatBooking {
-    String seat = new String("EMPTY");
+    AtomicReference<String> seat = new AtomicReference<>("EMPTY");
 
     boolean bookSeat(String name) {
-        if(seat.equals("EMPTY")) {
-            seat = new  String(name);
-            return true;
+        String currentValue = seat.get();
+
+        if(currentValue.equals("EMPTY") == false) {
+            return false;
         }
-        return false;
+        return seat.compareAndSet("EMPTY", name);
     }
 }
