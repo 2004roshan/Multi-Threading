@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="threadDemo20" />
         <module name="threadDemo10" />
+        <module name="threadDemo21" />
         <module name="threadDemo11" />
         <module name="threadDemo12" />
         <module name="threadDemo13" />
