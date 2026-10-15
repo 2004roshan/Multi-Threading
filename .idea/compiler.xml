@@ -6,20 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="threadDemo20" />
         <module name="threadDemo10" />
-        <module name="threadDemo21" />
         <module name="threadDemo11" />
-        <module name="threadDemo22" />
         <module name="threadDemo12" />
-        <module name="threadDemo23" />
         <module name="threadDemo13" />
-        <module name="threadDemo24" />
         <module name="threadDemo2" />
         <module name="threadDemo4" />
         <module name="threadDemo3" />
         <module name="threadDemo14" />
-        <module name="threadDemo25" />
         <module name="threadDemo9" />
         <module name="threadDemo15" />
         <module name="threadDemo" />
@@ -30,6 +24,13 @@
         <module name="threadDemo19" />
         <module name="threadDemo8" />
         <module name="threadDemo7" />
+        <module name="threadDemo20" />
+        <module name="threadDemo21" />
+        <module name="threadDemo22" />
+        <module name="threadDemo23" />
+        <module name="threadDemo24" />
+        <module name="threadDemo25" />
+        <module name="threadDemo26" />
       </profile>
     </annotationProcessing>
   </component>
