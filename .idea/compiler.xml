@@ -31,6 +31,7 @@
         <module name="threadDemo24" />
         <module name="threadDemo25" />
         <module name="threadDemo26" />
+        <module name="threadDemo27" />
       </profile>
     </annotationProcessing>
   </component>
