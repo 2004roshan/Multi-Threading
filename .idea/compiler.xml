@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="threadDemo30" />
+        <module name="threadDemo31" />
         <module name="threadDemo10" />
         <module name="threadDemo11" />
         <module name="threadDemo12" />
